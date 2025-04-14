@@ -1,0 +1,185 @@
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Moon",
+      "largeImage": "img/logo1.webp",
+      "smallImage": "img/logo1.webp"
+    },
+    {
+      "title": "Vip Rent Ro",
+      "largeImage": "img/logo2.webp",
+      "smallImage": "img/logo2.webp"
+    },
+    {
+      "title": "Gradina Mea",
+      "largeImage": "img/logo9.webp",
+      "smallImage": "img/logo9.webp"
+    },
+    {
+      "title": "Antonirri",
+       "largeImage": "img/logo3.webp",
+      "smallImage": "img/logo3.webp"
+    },
+    {
+      "title": "Top Immobiliare",
+      "largeImage": "img/logo4.webp",
+      "smallImage": "img/logo4.webp"
+    },
+    {
+      "title": "Ro Cleaning",
+      "largeImage": "img/logo5.webp",
+      "smallImage": "img/logo5.webp"
+    },
+    {
+      "title": "Vet Life",
+      "largeImage": "img/logo6.webp",
+      "smallImage": "img/logo6.webp"
+    },
+    {
+      "title": "Aestethic Vilaneva",
+      "largeImage": "img/logo7.webp",
+      "smallImage": "img/logo7.webp"
+    },
+    {
+      "title": "BC Consulting",
+      "largeImage": "img/logo8.webp",
+      "smallImage": "img/logo8.webp"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "Dezvoltare web",
+      "text": "Construim site-uri rapide, sigure și optimizate, adaptate nevoilor tale"
+    },
+    {
+      "icon": "fa fa-drafting-compass",
+      "name": "UI/UX Design",
+      "text": "Creăm experiențe vizuale intuitive și moderne, axate pe utilizator și ușurință în navigare"
+    },
+    {
+      "icon": "fa fa-globe",
+      "name": "Optimizare SEO",
+      "text": "Optimizăm site-ul tău pentru motoarele de căutare, crescând vizibilitatea și traficul organic"
+    },
+    {
+      "icon": "fa fa-handshake",
+      "name": "Consultanță Digitală",
+      "text": "Oferim ghidare strategică pentru dezvoltarea prezenței tale online"
+    },
+    {
+      "icon": "fa fa-cog",
+      "name": "Mentenanță Web",
+      "text": "Asigurăm suport tehnic continuu, actualizări regulate și securitate pentru site-ul tău."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Strategii de Marketing",
+      "text": "Dezvoltăm campanii eficiente și personalizate care atrag clienți și consolidează brandul tău"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone1": "+40 733 646 257",
+    "phone2": "+373 60 171 888",
+    "email": "catalindogaru0415@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
