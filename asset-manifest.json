@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/catalin0422/web-agency.git/static/css/main.fef84837.css",
-    "main.js": "/catalin0422/web-agency.git/static/js/main.a5886af5.js",
-    "index.html": "/catalin0422/web-agency.git/index.html",
-    "main.fef84837.css.map": "/catalin0422/web-agency.git/static/css/main.fef84837.css.map",
-    "main.a5886af5.js.map": "/catalin0422/web-agency.git/static/js/main.a5886af5.js.map"
+    "main.css": "/catalin0422/web-agency/static/css/main.fef84837.css",
+    "main.js": "/catalin0422/web-agency/static/js/main.a5886af5.js",
+    "index.html": "/catalin0422/web-agency/index.html",
+    "main.fef84837.css.map": "/catalin0422/web-agency/static/css/main.fef84837.css.map",
+    "main.a5886af5.js.map": "/catalin0422/web-agency/static/js/main.a5886af5.js.map"
   },
   "entrypoints": [
     "static/css/main.fef84837.css",
