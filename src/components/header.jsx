@@ -20,10 +20,10 @@ export const Header = (props) => {
                     Creăm pagini web moderne pentru afacerea ta
                 </h1>
                 <p></p>
-                <a
-                  onClick={handleScroll}  className="btn btn-custom btn-lg page-scroll" style={{ cursor: "pointer" }} >
+                <button
+                  onClick={handleScroll} className="btn btn-custom btn-lg page-scroll" style={{ cursor: "pointer" }} >
                   Vezi mai mult
-                </a>
+                </button>
               </div>
             </div>
           </div>
